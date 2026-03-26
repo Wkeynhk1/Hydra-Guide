@@ -40,7 +40,7 @@ hero:
 - [Error status 0xc0e90007/0xc0e90008](0xc0e90007.md)
 - [The code execution cannot continue because EMP.dll was not found. Reinstalling the program may fix this problem.](emp.dll.md)
 - [The code execution cannot continue because UnityPlayer.dll was not found. Reinstalling the program may fix this problem.](unityplayer.dll.md)
-= [The code execution cannot proceed because uplay_r1_loader64.dll was not found. Reinstalling the program may fix this problem.](uplay_r1_loader64.dll.md)
+- [The code execution cannot proceed because uplay_r1_loader64.dll was not found. Reinstalling the program may fix this problem.](uplay_r1_loader64.dll.md)
 - [The code execution cannot proceed because MSVCR100/110/120/140.dll was not found. Reinstalling the program may fix this problem.](msvcr1xx.dll.md)
 - [The code execution cannot proceed because XINPUT1_3.dll was not found. Reinstalling the program may fix this problem.](xinput1_3.dll.md)
 - [The EOS SDK could not be found. Please reinstall the application.](eos-sdk.md)
