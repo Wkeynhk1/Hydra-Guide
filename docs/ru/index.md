@@ -29,7 +29,7 @@ hero:
 - [Как установить Игровые Сервисы Microsoft](microsoft-gaming-services.md)
 - [Как переместить папку с игрой в корень диска](root-drive.md)
 - [Как установить общие распространяемые компоненты (Common Redistributables)](common-redistributables.md)
-- [Как добавить игру в Steam и включить систему ввода Steam](steam-input.md)
+- [Как добавить игру в Steam и включить Steam Input](steam-input.md)
 
 ### Ошибки
 

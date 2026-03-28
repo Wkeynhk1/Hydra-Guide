@@ -178,7 +178,7 @@ export default defineConfig({
                 { text: 'Установка Игровых Сервисов Microsoft', link: '/ru/microsoft-gaming-services' },
                 { text: 'Перемещение папки с игрой в корень диска', link: '/ru/root-drive' },
                 { text: 'Установка Common redistributables', link: '/ru/common-redistributables' },
-                { text: 'Добавление игры в Steam и включение системы ввода Steam', link: '/ru/steam-input' }
+                { text: 'Добавление игры в Steam и включение Steam Input', link: '/ru/steam-input' }
               ]
             },
             {
